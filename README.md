@@ -4,7 +4,7 @@ A Basic Python HTTP Web Server
 
 #### How to Use
 
-1. Clone this Repositoriy. (git clone)
+1. Clone this Repositoriy. (git clone https://github.com/Lucaslah/PythonHTTPWeb.git)
 2. Install Python3
 3. cd PythonHTTPWeb
 4. python3 main.py
